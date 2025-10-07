@@ -1,6 +1,6 @@
-flask
-sklearn
-pandas 
-numpy
-matplotlib
-streamlit
+flask==2.3.2
+pandas==2.2.2
+numpy==2.0.2
+matplotlib==3.8.1
+streamlit==1.26.0
+scikit-learn==1.3.2
